@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5c4c304.chunk.css",
-    "main.js": "/static/js/main.60c0a24f.chunk.js",
-    "main.js.map": "/static/js/main.60c0a24f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.17f05351.js",
-    "runtime-main.js.map": "/static/js/runtime-main.17f05351.js.map",
-    "static/js/2.fc25dfc2.chunk.js": "/static/js/2.fc25dfc2.chunk.js",
-    "static/js/2.fc25dfc2.chunk.js.map": "/static/js/2.fc25dfc2.chunk.js.map",
-    "static/js/3.e4223750.chunk.js": "/static/js/3.e4223750.chunk.js",
-    "static/js/3.e4223750.chunk.js.map": "/static/js/3.e4223750.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.b5c4c304.chunk.css.map": "/static/css/main.b5c4c304.chunk.css.map",
-    "static/js/2.fc25dfc2.chunk.js.LICENSE.txt": "/static/js/2.fc25dfc2.chunk.js.LICENSE.txt",
-    "static/media/fonts.css": "/static/media/Open-Sans-regular.8e4fce40.woff"
+    "main.css": "/happyhour-scoreboard/static/css/main.75f19c53.chunk.css",
+    "main.js": "/happyhour-scoreboard/static/js/main.60c0a24f.chunk.js",
+    "main.js.map": "/happyhour-scoreboard/static/js/main.60c0a24f.chunk.js.map",
+    "runtime-main.js": "/happyhour-scoreboard/static/js/runtime-main.6bb9161f.js",
+    "runtime-main.js.map": "/happyhour-scoreboard/static/js/runtime-main.6bb9161f.js.map",
+    "static/js/2.567aa4ea.chunk.js": "/happyhour-scoreboard/static/js/2.567aa4ea.chunk.js",
+    "static/js/2.567aa4ea.chunk.js.map": "/happyhour-scoreboard/static/js/2.567aa4ea.chunk.js.map",
+    "static/js/3.e4223750.chunk.js": "/happyhour-scoreboard/static/js/3.e4223750.chunk.js",
+    "static/js/3.e4223750.chunk.js.map": "/happyhour-scoreboard/static/js/3.e4223750.chunk.js.map",
+    "index.html": "/happyhour-scoreboard/index.html",
+    "static/css/main.75f19c53.chunk.css.map": "/happyhour-scoreboard/static/css/main.75f19c53.chunk.css.map",
+    "static/js/2.567aa4ea.chunk.js.LICENSE.txt": "/happyhour-scoreboard/static/js/2.567aa4ea.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/happyhour-scoreboard/static/media/Open-Sans-regular.8e4fce40.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.17f05351.js",
-    "static/js/2.fc25dfc2.chunk.js",
-    "static/css/main.b5c4c304.chunk.css",
+    "static/js/runtime-main.6bb9161f.js",
+    "static/js/2.567aa4ea.chunk.js",
+    "static/css/main.75f19c53.chunk.css",
     "static/js/main.60c0a24f.chunk.js"
   ]
 }
