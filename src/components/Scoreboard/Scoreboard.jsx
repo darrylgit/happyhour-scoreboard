@@ -14,7 +14,15 @@ const Container = styled.div`
   width: 100vw;
 
   & > div {
-    width: 25%;
+    width: ${(props) => {
+      if (props.numPlayers < 5) {
+        return "50%";
+      } else if (props.numPlayers < 10) {
+        return "33%";
+      } else {
+        return "25%";
+      }
+    }};
     margin: 20px 0;
   }
 `;
@@ -23,7 +31,7 @@ const Scoreboard = () => {
   let { players } = useContext(PlayerContext);
 
   return (
-    <Container>
+    <Container numPlayers={players.length}>
       {players.map((player) => (
         <Player name={player.name} />
       ))}
