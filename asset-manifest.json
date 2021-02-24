@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/happyhour-scoreboard/static/css/main.75f19c53.chunk.css",
-    "main.js": "/happyhour-scoreboard/static/js/main.c443b48b.chunk.js",
-    "main.js.map": "/happyhour-scoreboard/static/js/main.c443b48b.chunk.js.map",
+    "main.js": "/happyhour-scoreboard/static/js/main.073a0775.chunk.js",
+    "main.js.map": "/happyhour-scoreboard/static/js/main.073a0775.chunk.js.map",
     "runtime-main.js": "/happyhour-scoreboard/static/js/runtime-main.6bb9161f.js",
     "runtime-main.js.map": "/happyhour-scoreboard/static/js/runtime-main.6bb9161f.js.map",
     "static/js/2.567aa4ea.chunk.js": "/happyhour-scoreboard/static/js/2.567aa4ea.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.6bb9161f.js",
     "static/js/2.567aa4ea.chunk.js",
     "static/css/main.75f19c53.chunk.css",
-    "static/js/main.c443b48b.chunk.js"
+    "static/js/main.073a0775.chunk.js"
   ]
 }
